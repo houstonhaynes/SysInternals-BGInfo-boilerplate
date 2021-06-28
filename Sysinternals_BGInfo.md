@@ -2,8 +2,6 @@
 
 I'm a big fan of Sysinternals, and the BGInfo applet was particularly useful. It's a long-standing tool that's commonly deployed on servers for admins that may log in to multiple sessions across a cluster. It provides the name and status of the targeted system at a glance. 
 
-![BGInfo on Windows background image](/images/BGInfo_screengrab.png)
-
 During the WSL2 beta I got into creating an optimized profile for display on my desktop. And while I thought I'd eventually get rid of it, it's just *handy* to have this info on screen, for at-a-glance simiplicity or to run as a checksum against other monitoring tools.
 
 The part that I really like is the ability to eyeball the container load while also looking at overall CPU and GPU load. The Hyper-V info shows what's going on with the containers in WSL2 and gives me an overall view of CPU separate from those workloads. I was running a *lot* of GPU-based machine learning processes and wanted to know where the "heat" was coming from. I would sometimes get a thermal throttling state and this would be handy for spotting the culprit. So if this seems like it might be useful to tuck away on your desktop, feel free to set it up - and modify it to suit your needs.
