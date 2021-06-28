@@ -1,7 +1,7 @@
 # SysInternals-BGInfo-boilerplate
 A not so quick and dirty BGInfo setup to monitor containers and general system performance
 
-## Link to markdown file with instructions
+## Markdown with instructions
 
 This repo mainly is to house the scripts and instructions, the latter can be found at the top level of this mini-repo.
 
