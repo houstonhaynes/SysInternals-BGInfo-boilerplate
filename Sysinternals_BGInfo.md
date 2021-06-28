@@ -2,7 +2,7 @@
 
 I'm a big fan of Sysinternals, and the BGInfo applet was particularly useful. It's a long-standing tool that's commonly deployed on servers for admins that may log in to multiple sessions across a cluster. It provides the name and status of the targeted system at a glance. 
 
-![BGInfo on Windows background image](/images/BGInfo_screenshot.png)
+![BGInfo on Windows background image](/images/BGInfo_screengrab.png)
 
 During the WSL2 beta I got into creating an optimized profile for display on my desktop. And while I thought I'd eventually get rid of it, it's just *handy* to have this info on screen, for at-a-glance simiplicity or to run as a checksum against other monitoring tools.
 
