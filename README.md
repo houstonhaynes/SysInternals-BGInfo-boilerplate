@@ -1,5 +1,5 @@
-# SysInternals-BGInfo-boilerplate
-A not so quick and dirty BGInfo setup to monitor containers and general system performance
+# A monitoring throw-back
+Sysinternals BGInfo is a long-standing tool for server admins to put a quick-look view of system info on the desktop. Essentially it's a mini-app that runs on a timer and checks the Windows Management Interface (WMI) for info about the system, collates/massages it into a human-readable form (in some cases) and then embeds that info in the background image of the desktop. 
 
 ## Markdown with instructions
 
